@@ -32,7 +32,10 @@ Dan hasilnya masih error juga, dan darisini saya mencari tahu penyebabnya ternya
 
 6. yang awalnya  ``'+UNION+SELECT+NULL,NULL--`` menjadi ``'+UNION+SELECT+NULL,+NULL,+NULL+--``
 <img width="1647" height="783" alt="image" src="https://github.com/user-attachments/assets/749f997c-ed53-4cb1-9e43-eb63a9f92d65" />
-Yeay akhirnya berhasil
+Yeay akhirnya berhasil.
+
+<img width="1321" height="886" alt="image" src="https://github.com/user-attachments/assets/f302176b-db36-479e-ac2e-cc587bd7a590" />
+
 
 ## Tambahan 
 Dari Kesimpulan mengerjakan tadi saya tahu bahwa Proses ini secara efektif membuktikan bahwa query pada halaman filter kategori mengambil tepat 3 kolom data.
